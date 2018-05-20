@@ -31,13 +31,17 @@ the/path/to/entry the/path/to/vocabulary the/path/to/camera-config the/path/to/d
 ```
 
 > ORB-SLAM2 系统流程图
+
 ![SLAM系统流程图](./FlowChart/system.png)
 
 > tracking 线程流程图
+
 ![tracking线程流程图](./FlowChart/tracking.png)
 
 > 运行时的稀疏地图序列
+
 ![运行时的稀疏序列](./FlowChart/lct1.png)
 
 > 运行时的摄像头视图序列
+
 ![运行时的摄像头视图序列](./FlowChart/lct2.png)
